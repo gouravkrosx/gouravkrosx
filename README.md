@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/gouravkrosx" target="blank"><img src="https://img.shields.io/twitter/follow/gouravkrosx?logo=twitter&style=for-the-badge" alt="gouravkrosx" /></a> </p>
 
-- 🔭 I’m currently working on [java-sdk](https://github.com/keploy/java-sdk)
+- 🔭 I’m currently building [keploy](https://github.com/keploy/keploy)
 
-- 💬 Ask me about **SpringBoot, ByteBuddy.**
+- 💬 Ask me about **SpringBoot, ByteBuddy, eBPF.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
