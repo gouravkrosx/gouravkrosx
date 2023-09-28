@@ -30,3 +30,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouravkrosx&show_icons=true&locale=en" alt="gouravkrosx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravkrosx&" alt="gouravkrosx" /></p>
+
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/gouravkrosx/badges/community)](https://community.vaunt.dev/board/gouravkrosx)
+<p>
+<a href="https://vaunt.dev">
+<img src="https://api.vaunt.dev/v1/github/entities/gouravkrosx/contributions?format=svg" width="45%" />
+</a>
+<img decoding="async" loading="lazy" src="https://api.vaunt.dev/v1/github/entities/gouravkrosx/achievements?format=svg&limit=3" width="50%" />
+</p>
